@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **thesolver08@gmail.com**
 
-- 🎮 BGMI ID [Alpha么Mahe](Alpha么Mahe)
+- 🎮 BGMI ID [Alpha么69](Alpha么69)
 
 - ⚡ Fun fact **I am not User-Friendly**
 
