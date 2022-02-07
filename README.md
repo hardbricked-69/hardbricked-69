@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardbricked-69" alt="hardbricked-69" /></a> </p>
 
-- 🔭 I’m currently working on [Porting Lineage 19.0(A12) for R5x](https://github.com/LineageOS/android.git)
 
 - 🌱 I’m currently learning **Android Studio with Java**
 
-- 👯 I’m looking to collaborate on [Build_Bot for Zeus-OS](https://github.com/Zeus-OS)
-
-- 🤝 I’m looking for help with [Developing Kernel & Inlining them](https://github.com/PitchBlackRecoveryProject)
+- 🤝 I’m looking for help with Gatekeeper & Keymaster Denials
 
 - 💢 Get in Touch with Me [https://t.me/HardBricked_69](https://t.me/HardBricked_69)
 
