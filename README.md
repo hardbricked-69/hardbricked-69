@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HardBricked_69</h1>
-<h3 align="center">A passionate BackEnd developer & Tester from India 🇮🇳</h3>
+<h3 align="center">A Noobie with 0 Skils 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardbricked-69&label=Profile%20views&color=0e75b6&style=flat" alt="hardbricked-69" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android Studio with Java**
 
-- 🤝 I’m looking for help with Gatekeeper & Keymaster Denials
+- 🤝 I’m looking for help with Machine Learning
 
 - 💢 Get in Touch with Me [https://t.me/HardBricked_69](https://t.me/HardBricked_69)
 
